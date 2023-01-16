@@ -14,7 +14,7 @@
 | login    | varchar(32)   | Логин                                             |
 | type     | varchar(8)    | Тип пользователя (owner или visitor)              |
 | hash     | text          | Хэш пароля и соли                                 |
-| salt     | varbinary(16) | Число дизлайков под постом                        |
+| salt     | varbinary(16) | Соль пользователя                                 |
 
 ***
 #### points
