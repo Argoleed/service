@@ -61,8 +61,9 @@
 ***
 #### 4. API
 ***
-
+![](https://github.com/Argoleed/service/blob/main/API.png)
 ***
 ***
 #### 5. Пользовательские сценарии работы
+***
 ***
